@@ -1,6 +1,8 @@
 # clogithet
 Heteroscedastic conditional logit (logistic) regression model Use clogithet With STATA 19
 
+https://www.youtube.com/watch?v=Z9uSbxbcu6w
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
